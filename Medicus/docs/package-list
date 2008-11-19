@@ -1,0 +1,14 @@
+ar.com.grupo1.commons
+ar.com.grupo1.dao
+ar.com.grupo1.dao.obrasocial
+ar.com.grupo1.dao.paciente
+ar.com.grupo1.dominio.empleado
+ar.com.grupo1.dominio.empleado.impl
+ar.com.grupo1.dominio.jornada
+ar.com.grupo1.dominio.obrasocial
+ar.com.grupo1.dominio.obrasocial.impl
+ar.com.grupo1.dominio.paciente
+ar.com.grupo1.dominio.tarea
+ar.com.grupo1.dominio.tarea.impl
+ar.com.grupo1.exceptions
+ar.com.grupo1.negocio
